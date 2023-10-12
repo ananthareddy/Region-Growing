@@ -1,0 +1,11 @@
+https://www.dropbox.com/s/k88qukc20ljnbuo/PH2Dataset.rar?file_subpath=%2FPH2Dataset
+
+https://www.fc.up.pt/addi/ph2%20database.html
+
+https://stackoverflow.com/questions/52858115/how-to-remove-hair-from-skin-images-using-opencv
+
+https://github.com/Panchamy/RegionGrowing/blob/master/RegionGrowing.py
+
+https://developpaper.com/simple-implementation-of-region-growing-in-python/
+
+https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_glcm.html
